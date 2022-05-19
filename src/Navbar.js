@@ -7,7 +7,7 @@ const Navbar =()=>{
         <h1>Lavalamp CSS Menu</h1>
 
         <nav>
-            <a href="#">Home</a>
+            <a href="/">Home</a>
             <a href="#">About</a>
             <a href="#">Blog</a>
             <a href="#">Portefolio</a>
